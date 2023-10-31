@@ -5,7 +5,7 @@ Funciones y utilidades para la gestión de datasets
 
 It is a Python package that provides features and utilities for dataset management. This package has been developed as part of the subject Mathematical and Statistical Software of the EHU/UPV master KISA.
 
-Functionalities
+## Functionalities
 
 The main features implemented in this package are:
 
@@ -17,7 +17,7 @@ The main features implemented in this package are:
 - **Visualization**: Plots to represent AUC and correlation/net of information matrices.
 
 
-Requirements
+## Requirements
 
 - Python 
 - Additional packages:
@@ -28,7 +28,7 @@ Requirements
   - math
   - Matplotlib
 
-- Installation
+## Installation
 
 You can install "data" using pip:
 
